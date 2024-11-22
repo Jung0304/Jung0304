@@ -4,7 +4,8 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJung0304&count_bg=%23C73DB6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
-## [Chung-Ang University](https://www.cau.ac.kr/index.do)
+# About Me
+[Chung-Ang University](https://www.cau.ac.kr/index.do)
 college student in the [Art&Tech](https://www.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=1700)
 
 
