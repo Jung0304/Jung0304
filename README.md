@@ -1,3 +1,6 @@
+
+<img src="https://capsule-render.vercel.app/api?type=circle&color=4e3d87&height=100&section=header&text="HELLO"&fontSize=30" />
+
 <div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJung0304&count_bg=%23C73DB6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
@@ -8,6 +11,7 @@ college student in the Department of Art&Tech
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jung0304)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
+  
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/@2256jungyoonji)
 </div>
 
