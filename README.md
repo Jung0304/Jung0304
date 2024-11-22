@@ -30,7 +30,15 @@ college student in the [Art&Tech](https://www.cau.ac.kr/cms/FR_CON/index.do?MENU
 
 </details>
 
+<details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내 깃허브 통계...
+</summary>
+   <br>
+  
 [![Jung's github stats](https://github-readme-stats.vercel.app/api?username=Jung0304)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
 
 #### social media
 <div align=center>
