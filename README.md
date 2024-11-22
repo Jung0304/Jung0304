@@ -3,7 +3,9 @@
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/@2256jungyoonji)
 </div>
-## Hi there 👋
+
+Chung-Ang University 
+a college student in the Department of Art&Tech
 
 <!--
 **Jung0304/Jung0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
