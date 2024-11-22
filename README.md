@@ -7,7 +7,7 @@
 ## [Chung-Ang University](https://www.cau.ac.kr/index.do)
 college student in the [Art&Tech](https://www.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=1700)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jung0304)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <details>
 <summary>
@@ -28,6 +28,8 @@ college student in the [Art&Tech](https://www.cau.ac.kr/cms/FR_CON/index.do?MENU
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 </details>
+
+[![Jung's github stats](https://github-readme-stats.vercel.app/api?username=Jung0304)](https://github.com/anuraghazra/github-readme-stats)
 
 #### social media
 <div align=center>
