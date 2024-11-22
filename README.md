@@ -7,6 +7,7 @@
 </div>
 
 # 🚀 About Me
+![download](https://github.com/user-attachments/assets/0d922a33-b8a6-4fb5-b6d0-5b4d78cd3b67)
 - 🎓 [Chung-Ang University](https://www.cau.ac.kr/index.do)
 college student in the [Art&Tech](https://www.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=1700)
 - 💻 3D 모델링에 관심이 있습니다.
