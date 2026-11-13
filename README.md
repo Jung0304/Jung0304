@@ -46,11 +46,7 @@ college student in the [Art&Tech](https://www.cau.ac.kr/cms/FR_CON/index.do?MENU
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ynji0403@naver.com)
 </div>
 
-## 🎯 2024 Goals
-- 종강 잘하기
-- 파이썬 기초 익히기
-- 성적 잘 받기
-  
+
 <!--
 **Jung0304/Jung0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
